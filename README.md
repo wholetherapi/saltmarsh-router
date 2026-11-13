@@ -2,7 +2,7 @@
 
 ## Repository Status
 
-**To be released**
+**Status: To be released (coming soon)**
 
 This repository will contain the implementation of the saltmarsh-router
 request router. The release is currently under review with the upstream
